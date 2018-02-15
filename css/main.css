@@ -24,11 +24,22 @@ html {
 .watermelon {
   font-family: 'Rammetto One', cursive;
 }
+.watermelon-wrap {
+  background-color: #e97065;
+}
 
 .starfruit {
   font-family: 'Gravitas One', cursive;
 }
 
+.starfruit-wrap {
+  background-color: #fbd25e;
+}
+
 .persimmon {
   font-family: 'Comfortaa', cursive;
+}
+
+.persimmon-wrap {
+    background-color: #e86033;
 }
