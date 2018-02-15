@@ -12,24 +12,27 @@ html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
 
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
+}
 
+body {
   margin: 0;
 }
 
 .watermelon {
-  font-family: 'Rammetto One', cursive;
+  font-family: "Rammetto One", cursive;
 }
+
 .watermelon-wrap {
   background-color: #e97065;
 }
 
 .starfruit {
-  font-family: 'Gravitas One', cursive;
+  font-family: "Gravitas One", cursive;
 }
 
 .starfruit-wrap {
@@ -37,9 +40,9 @@ html {
 }
 
 .persimmon {
-  font-family: 'Comfortaa', cursive;
+  font-family: Comfortaa, cursive;
 }
 
 .persimmon-wrap {
-    background-color: #e86033;
+  background-color: #e86033;
 }
